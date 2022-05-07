@@ -19,13 +19,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>Projects on Live!</h3>
-<a href="https://invoice-app-pied.vercel.app/"><b>Invoice App</b></a>
+<a target="_blank" href="https://invoice-app-pied.vercel.app/"><b>Invoice App</b></a>
 </br>
-<a href="https://huddle-landing-page-hazel.vercel.app/"><b>HuddleLandingPage</b></a>
+<a target="_blank" href="https://huddle-landing-page-hazel.vercel.app/"><b>HuddleLandingPage</b></a>
 </br>
-<a href="https://job-listings-with-filtering-theta.vercel.app/"><b>Job Listing With Filter</b></a>
+<a target="_blank" href="https://job-listings-with-filtering-theta.vercel.app/"><b>Job Listing With Filter</b></a>
 </br>
-<a href="https://memgame-ae79f.firebaseapp.com/"><b>MemoryGame</b></a>
+<a target="_blank" href="https://memgame-ae79f.firebaseapp.com/"><b>MemoryGame</b></a>
 
 
 <!--
