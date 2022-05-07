@@ -18,6 +18,16 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<h3>Projects on Live!</h3>
+<a href="https://invoice-app-pied.vercel.app/"><b>Invoice App</b></a>
+</br>
+<a href="https://huddle-landing-page-hazel.vercel.app/"><b>HuddleLandingPage</b></a>
+</br>
+<a href="https://job-listings-with-filtering-theta.vercel.app/"><b>Job Listing With Filter</b></a>
+</br>
+<a href="https://memgame-ae79f.firebaseapp.com/"><b>MemoryGame</b></a>
+
+
 <!--
 **darrenyip/darrenyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
