@@ -27,6 +27,10 @@
 </br>
 <a target="_blank" href="https://memgame-ae79f.firebaseapp.com/"><b>MemoryGame</b></a>
 </br>
+<a target="_blank" href="https://single-price-grid-umber.vercel.app/"><b>Single Price Grid</b></a>
+</br>
+<a target="_blank" href="https://fylo-data-storage-page.vercel.app/"><b>Fylo Data Storage Page</b></a>
+</br>
 
 <!--
 **darrenyip/darrenyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
